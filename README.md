@@ -1,2 +1,2 @@
-# icse_java
-ICSE - Computer Applications (JAVA)
+# ICSE - Computer Applications (JAVA)
+icse_java
